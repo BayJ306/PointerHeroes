@@ -11,7 +11,9 @@
 - [Quick Start](#quick-start)
 - [File Format](#file-format)
 - [Usage Guide](#usage-guide)
+- [Tips & Tricks](#tips-&-tricks)
 - [Credits](#credits)
+- [Learning Outcomes](#learning-outcomes)
 
 ---
 
