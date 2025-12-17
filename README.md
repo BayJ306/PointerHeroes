@@ -51,29 +51,29 @@ Built entirely in C using structs, arrays, and modular functions.
 
 **Linux/Mac:**
 ```bash
-gcc -o hero_squad hero_squad.c -lm
+gcc -o main main.c -lm
 ```
 
 **Windows (MinGW):**
 ```bash
-gcc -o hero_squad.exe hero_squad.c -lm
+gcc -o main.exe main.c -lm
 ```
 
 **Alternative (without math library):**
 ```bash
-gcc -o hero_squad hero_squad.c
+gcc -o main main.c
 ```
 
 ### Running the Program
 
 **Linux/Mac:**
 ```bash
-./hero_squad
+./main
 ```
 
 **Windows:**
 ```bash
-hero_squad.exe
+main.exe
 ```
 
 ---
