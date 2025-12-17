@@ -11,7 +11,7 @@
 - [Quick Start](#quick-start)
 - [File Format](#file-format)
 - [Usage Guide](#usage-guide)
-- [Tips & Tricks](#tips-&-tricks)
+- [Tips and Tricks](#tips-and-tricks)
 - [Credits](#credits)
 - [Learning Outcomes](#learning-outcomes)
 
@@ -190,7 +190,7 @@ Where `luckBonus = random(0, luck/10)`
 
 ---
 
-## Tips & Tricks
+## Tips and Tricks
 
 ### Creating Balanced Heroes
 
