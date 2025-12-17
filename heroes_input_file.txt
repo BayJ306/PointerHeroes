@@ -1,0 +1,6 @@
+5
+Thor Warrior 10 450 85 70 60
+Merlin Mage 12 280 95 30 75
+Artemis Archer 9 320 78 45 80
+Astra Healer 8 350 40 60 50
+Ragnar Warrior 11 480 90 75 55
